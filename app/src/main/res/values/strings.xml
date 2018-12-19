@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SunsetSunrise</string>
+    <string name="sunrise">Sunrise</string>
+    <string name="sunset">Sunset</string>
+    <string name="location_permission">location permission denied</string>
+    <string name="day_length">Day length</string>
+</resources>
